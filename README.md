@@ -2,4 +2,4 @@
 
 ---
 
-- [tistory](daily-sunnys.tistory.com)
+- [tistory](https://daily-sunnys.tistory.com)
