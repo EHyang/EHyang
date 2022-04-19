@@ -5,6 +5,9 @@
 - BackEnd 개발자
 - C++
 - Node.js
+  - Express
+  - Next
+  - Nest
 - AWS
 - Docker
 
